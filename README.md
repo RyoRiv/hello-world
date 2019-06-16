@@ -1,2 +1,5 @@
 # hello-world
-A repository to learn how it works
+
+Hi!
+I like sports, especially soccer and diving.
+Nice to meet you!
